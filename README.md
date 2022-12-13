@@ -1,12 +1,3 @@
-<h1 align="center" color="#fff" font-size="20px">Pipefy Clone</h1>
-
-<p align="center">
-  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/alantomaiz/event-platform?color=7159c1">
-  <img alt="Made by AlanTomaiz" src="https://img.shields.io/badge/made%20by-alantomaiz-%20?color=7159c1">
-  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/alantomaiz/event-platform?color=7159c1">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alantomaiz/event-platform?color=7159c1">
-</p>
-
 ![App Screenshot](.github/cover.png)
 
 ## 💻 Tecnologias
